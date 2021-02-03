@@ -338,3 +338,32 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+AUDCAD.xlsx
+AUDCHF.xlsx
+AUDJPY.xlsx
+AUDNZD.xlsx
+AUDUSD.xlsx
+CADCHF.xlsx
+CADJPY.xlsx
+CHFJPY.xlsx
+EURAUD.xlsx
+EURCAD.xlsx
+EURCHF.xlsx
+EURGBP.xlsx
+EURJPY.xlsx
+EURNZD.xlsx
+EURUSD.xlsx
+GBPAUD.xlsx
+GBPCAD.xlsx
+GBPCHF.xlsx
+GBPJPY.xlsx
+GBPNZD.xlsx
+GBPUSD.xlsx
+NZDCAD.xlsx
+NZDCHF.xlsx
+NZDJPY.xlsx
+NZDUSD.xlsx
+USDCAD.xlsx
+USDCHF.xlsx
+USDJPY.xlsx
